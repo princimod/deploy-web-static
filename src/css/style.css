@@ -41,7 +41,7 @@ body {
 }
 
 /* Card do perfil */
-.profile-card {
+.profile-card {    
     background-color: #25d366;
     /*background: rgba(255, 255, 255, 0.95);*/
     backdrop-filter: blur(20px);
